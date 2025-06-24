@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*Zd879vvc_Dy8E3xV.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*Zd879vvc_Dy8E3xV.gif)
 
 <h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
 <h3 align="center">Master’s student in Energy Science | AI & Machine Learning for Renewable Energy and Battery Management Systems</h3>
