@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Smart grid technologies, AI-driven solutions for energy systems, battery management, renewable energy forecasting, or machine learning applications in electrical fault detection and power system stability. I’d love to discuss neural networks, LSTM models, and innovations in energy storage.**
 
-- 📫 How to reach me **connectashish028@gmail.com**
+- 📫 How to reach me **connectashish28@gmail.com**
 
 - ⚡ Fun fact **I love to work out, spend time with dogs, and dive into coding projects. Whether it's hitting the gym, hanging with my furry friends, or tackling algorithms, I find balance through both fitness and tech!**
 
