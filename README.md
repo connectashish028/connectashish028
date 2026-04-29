@@ -39,16 +39,6 @@ I read the battery as well as I read the data.
 
 ---
 
-### Highlights from Entrix
-
-- Unlocked **200%** daily revenue uplift on a grid-scale BESS by validating a 0.3C-rate cycling limit under multi-market optimization (1-year backtest)
-- Delivered the **Preset analytics layer** for the customer-facing asset dashboard — used daily by **15+ external fleet operators**, presented at **E-World 2026**
-- Cut **~2 hrs/week** of reporting for 10+ stakeholders across 5 teams via 3 internal Grafana dashboards on a parameterized Athena backend
-- Quantified up to **8%** annual revenue impact of contractual restrictions, supporting commercial negotiations
-- Shipped a redispatch-compliant dispatch heuristic on a 50 MW / 90 MWh BESS — trading only **3%** revenue for grid compliance
-
----
-
 ### Stack
 
 **Languages**&nbsp;&nbsp;Python · SQL · MATLAB
