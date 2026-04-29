@@ -14,7 +14,7 @@ Munich, Germany&nbsp;&nbsp;·&nbsp;&nbsp;[connectashish28@gmail.com](mailto:conn
 
 ### About
 
-I work where battery hardware meets the German power market. At **Entrix**, I built production analytics for grid-scale BESS — multi-market backtesting, customer-facing dashboards, redispatch heuristics. Master's in Energy Science from **Ulm**, with prior R&D at **DENSO** and ML research at **TH Ulm**.
+I work where battery hardware meets the German power market. At **Entrix**, I built production analytics for grid-scale BESS — multi-market backtesting, customer-facing dashboards, redispatch heuristics. Master's in Energy Science from **Ulm University**, with prior R&D at **DENSO** and ML research at **TH Ulm**.
 
 I read the battery as well as I read the data.
 
@@ -41,11 +41,11 @@ I read the battery as well as I read the data.
 
 ### Stack
 
-**Languages**&nbsp;&nbsp;Python · SQL · MATLAB
-**ML & Data**&nbsp;&nbsp;pandas · NumPy · scikit-learn · TensorFlow · PuLP
-**Cloud & Infra**&nbsp;&nbsp;AWS (ECS, S3, Athena) · Docker · InfluxDB · DynamoDB
-**BI & Viz**&nbsp;&nbsp;Grafana · Preset/Superset · Streamlit · Plotly
-**Domain**&nbsp;&nbsp;EPEX DA/ID · FCR · aFRR · Redispatch · BESS dispatch · SOC/C-rate · IEC 61850
+- **Languages**&nbsp;&nbsp;Python · SQL · MATLAB
+- **ML & Data**&nbsp;&nbsp;pandas · NumPy · scikit-learn · TensorFlow · PuLP
+- **Cloud & Infra**&nbsp;&nbsp;AWS (ECS, S3, Athena) · Docker · InfluxDB · DynamoDB
+- **BI & Viz**&nbsp;&nbsp;Grafana · Preset/Superset · Streamlit · Plotly
+- **Domain**&nbsp;&nbsp;EPEX (DA/ID, FCR, aFRR)· Redispatch · BESS Optimization · SOC/C-rate ·
 
 ---
 
