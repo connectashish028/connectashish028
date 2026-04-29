@@ -1,36 +1,71 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*Zd879vvc_Dy8E3xV.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
-<h3 align="center">Master’s student in Energy Science | AI & Machine Learning for Renewable Energy and Battery Management Systems</h3>
+# Ashish Pandey
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+**Energy Data Analyst — German power markets · BESS · ML forecasting**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=connectashish028&label=Profile%20views&color=0e75b6&style=flat" alt="connectashish028" /> </p>
+Munich, Germany&nbsp;&nbsp;·&nbsp;&nbsp;[connectashish28@gmail.com](mailto:connectashish28@gmail.com)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/reachashish/)
 
-- 🔭 I’m currently working on **Developing advanced LSTM-based forecasting models for renewable energy systems and applying machine learning to electrical fault detection and classification. I’m analyzing line currents and voltages under various fault conditions to enhance power system protection mechanisms. My focus is on using AI, especially neural networks, to improve fault identification and response times in transmission lines.**
+![Profile views](https://komarev.com/ghpvc/?username=connectashish028&label=Profile%20views&color=5E6AD2&style=flat)
 
-- 🌱 I’m currently learning **Advanced machine learning and data analysis techniques, particularly for electrical fault detection and classification, as well as smart grid automation. I’m expanding my knowledge of battery management system optimization and LSTM models for energy forecasting.**
+</div>
 
-- 👯 I’m looking to collaborate on **Projects involving energy system optimization, smart grid technologies, renewable energy integration, and AI-driven solutions for battery management and storage systems. I’m also interested in collaborating on machine learning applications for electrical fault detection and power system stability.**
+---
 
-- 🤝 I’m looking for help with **Exploring cutting-edge approaches in neural networks for energy applications, and improving the efficiency of AI models for fault detection and classification.**
+### About
 
-- 💬 Ask me about **Smart grid technologies, AI-driven solutions for energy systems, battery management, renewable energy forecasting, or machine learning applications in electrical fault detection and power system stability. I’d love to discuss neural networks, LSTM models, and innovations in energy storage.**
+I work where battery hardware meets the German power market. At **Entrix**, I built production analytics for grid-scale BESS — multi-market backtesting, customer-facing dashboards, redispatch heuristics. Master's in Energy Science from **Ulm**, with prior R&D at **DENSO** and ML research at **TH Ulm**.
 
-- 📫 How to reach me **connectashish28@gmail.com**
+I read the battery as well as I read the data.
 
-- ⚡ Fun fact **I love to work out, spend time with dogs, and dive into coding projects. Whether it's hitting the gym, hanging with my furry friends, or tackling algorithms, I find balance through both fitness and tech!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reachashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reachashish/" height="30" width="40" /></a>
-</p>
+### What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Grid-scale BESS analytics** — multi-market optimization (FCR, aFRR, EPEX DA/ID), revenue backtesting, dispatch heuristics
+- **Production data tooling** — Grafana, Preset/Superset, Streamlit on AWS (ECS, S3, Athena)
+- **ML for energy** — load and PV forecasting (LSTM, GRU, Conv1D), CVAE-based synthetic load profiles, SOC estimation on real BMS data
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connectashish028&show_icons=true&locale=en&layout=compact" alt="connectashish028" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectashish028&show_icons=true&locale=en" alt="connectashish028" /></p>
+### Selected work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connectashish028&" alt="connectashish028" /></p>
+| Project | What it does | Stack |
+|---|---|---|
+| [**Redispatch Dashboard** ↗](https://redispatch-forecast-project.streamlit.app/) | Live Streamlit dashboard over 2 years of German DSO redispatch activity across **175 Schleswig-Holstein substations**. 15-min parquet pipeline, daily + 90-day congestion KPIs. | Streamlit, Plotly, parquet, SMARD API |
+| [**Load Forecasting** ↗](https://github.com/connectashish028/loadforecast) | LSTM / GRU / Conv1D on 5 years of hourly German load data. GRU best at **R² 0.94**. | TensorFlow, Streamlit |
+| [**BMS SOC Estimation** ↗](https://github.com/connectashish028/BMS_SOC_Estimation) | Cycle detection and coulombic-efficiency drift correction on real BMS telemetry from a 14 kWh LFP pack, validated against BMS-reported SOC. | Python, InfluxDB |
+| [**Solar Forecasting** ↗](https://github.com/connectashish028/solar-forecasting) | Six-model benchmark on PV production data with RandomizedSearchCV. Random Forest best at **R² 0.90**. | scikit-learn |
+
+---
+
+### Highlights from Entrix
+
+- Unlocked **200%** daily revenue uplift on a grid-scale BESS by validating a 0.3C-rate cycling limit under multi-market optimization (1-year backtest)
+- Delivered the **Preset analytics layer** for the customer-facing asset dashboard — used daily by **15+ external fleet operators**, presented at **E-World 2026**
+- Cut **~2 hrs/week** of reporting for 10+ stakeholders across 5 teams via 3 internal Grafana dashboards on a parameterized Athena backend
+- Quantified up to **8%** annual revenue impact of contractual restrictions, supporting commercial negotiations
+- Shipped a redispatch-compliant dispatch heuristic on a 50 MW / 90 MWh BESS — trading only **3%** revenue for grid compliance
+
+---
+
+### Stack
+
+**Languages**&nbsp;&nbsp;Python · SQL · MATLAB
+**ML & Data**&nbsp;&nbsp;pandas · NumPy · scikit-learn · TensorFlow · PuLP
+**Cloud & Infra**&nbsp;&nbsp;AWS (ECS, S3, Athena) · Docker · InfluxDB · DynamoDB
+**BI & Viz**&nbsp;&nbsp;Grafana · Preset/Superset · Streamlit · Plotly
+**Domain**&nbsp;&nbsp;EPEX DA/ID · FCR · aFRR · Redispatch · BESS dispatch · SOC/C-rate · IEC 61850
+
+---
+
+<div align="center">
+
+<a href="https://github.com/connectashish028">
+  <img src="https://github-readme-stats.vercel.app/api?username=connectashish028&show_icons=true&hide_border=true&title_color=5E6AD2&icon_color=5E6AD2&text_color=08090A&bg_color=FFFFFF" height="160" />
+</a>
+<a href="https://github.com/connectashish028">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connectashish028&layout=compact&hide_border=true&title_color=5E6AD2&text_color=08090A&bg_color=FFFFFF" height="160" />
+</a>
+
+</div>
